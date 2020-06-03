@@ -1,5 +1,5 @@
 {
-    "crime": "Get phone number and the path of external storage directory to prepare for phone number and sensitive file theft",
+    "crime": "Steal Sensitive Information - Get phone number and SD cards info",
     "x1_permission": [
         "android.permission.READ_PHONE_STATE",
         "android.permission.WRITE_EXTERNAL_STORAGE"
