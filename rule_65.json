@@ -1,5 +1,5 @@
 {
-    "crime": "Get voice mail number and the last location from given provider to locating position of the phone user",
+    "crime": "Steal Sensitive Information - Get your phone number and last known location of the device",
     "x1_permission": [
         "android.permission.READ_PHONE_STATE",
         "android.permission.ACCESS_COARSE_LOCATION"
