@@ -1,5 +1,5 @@
 {
-    "crime": "Get location of device and path of external storage directory to prepare for location and data file theft",
+    "crime": "Steal Sensitive Information - Get SD cards info and last known location of the device",
     "x1_permission": [
         "android.permission.ACCESS_COARSE_LOCATION",
         "android.permission.WRITE_EXTERNAL_STORAGE"
