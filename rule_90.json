@@ -1,5 +1,5 @@
 {
-    "crime": "Get current network type and phone number to send phone number of device via network",
+    "crime": "Steal Sensitive Information - Get ISP info and your phone number",
     "x1_permission": [
         "android.permission.READ_PHONE_STATE"
     ],
