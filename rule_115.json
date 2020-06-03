@@ -1,5 +1,5 @@
 {
-    "crime": "Get location of device and register location update to prepare for location information theft",
+    "crime": "Location Detection - Get cell phone location and add another GPS status listener",
     "x1_permission": [
         "android.permission.ACCESS_FINE_LOCATION"
     ],
