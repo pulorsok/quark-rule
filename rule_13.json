@@ -1,5 +1,5 @@
 {
-    "description": "? 13",
+    "description": "Resource Comsumption - keep the phone awake when vibrate",
     "crime": {
         "action": "vibrate",
         "target": "newWakeLock"
