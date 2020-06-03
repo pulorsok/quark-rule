@@ -1,5 +1,5 @@
 {
-    "crime": "Get current network type and location of device for hotspot detect that searching all available network at location",
+    "crime": "Steal Sensitive Information - Get ISP info and the last known location of the device",
     "x1_permission": [
         "android.permission.READ_PHONE_STATE",
         "android.permission.ACCESS_COARSE_LOCATION"
