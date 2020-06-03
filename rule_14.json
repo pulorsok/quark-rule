@@ -1,5 +1,5 @@
 {
-    "crime": "Get current software version then get last location from the given provider for locating the position of device",
+    "crime": "Steal Sensitive Information - Get device software version and the last location of the device",
     "x1_permission": [
         "android.permission.READ_PHONE_STATE",
         "android.permission.ACCESS_COARSE_LOCATION"
