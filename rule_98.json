@@ -1,5 +1,5 @@
 {
-    "crime": "Get location of device and network connection status information for hotspot detect that searching all available network at location",
+    "crime": "Hotspot Detection - Get current location and network info",
     "x1_permission": [
         "android.permission.ACCESS_FINE_LOCATION",
         "android.permission.ACCESS_NETWORK_STATE"
