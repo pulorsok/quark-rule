@@ -1,5 +1,5 @@
 {
-    "crime": "Get voice mail number and register location update to prepare for location and mailnumber information theft",
+    "crime": "Steal Sensitive Information - See where does the user use voice mail service",
     "x1_permission": [
         "android.permission.READ_PHONE_STATE",
         "android.permission.ACCESS_COARSE_LOCATION"
