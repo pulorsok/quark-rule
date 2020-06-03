@@ -1,5 +1,5 @@
 {
-    "crime": "Get available network information and the path of external storage directory for sending data file via network",
+    "crime": "Steal Sensitive Information - Get available network info and directory info of your SD cards",
     "x1_permission": [
         "android.permission.ACCESS_NETWORK_STATE",
         "android.permission.WRITE_EXTERNAL_STORAGE"
