@@ -1,5 +1,5 @@
 {
-    "crime": "Register location update then get the current location to locating the postition of device",
+    "crime": "Steal Sensitive Information - Update location before getting the location info",
     "x1_permission": [
         "android.permission.ACCESS_COARSE_LOCATION",
         "android.permission.ACCESS_FINE_LOCATION"
