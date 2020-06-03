@@ -1,5 +1,5 @@
 {
-    "crime": "Get current network information and remove location update",
+    "crime": "Stealth and Steal Sensitive Information - Get active networks' info and hide from the GPS tracking",
     "x1_permission": [
         "android.permission.ACCESS_NETWORK_STATE",
         "android.permission.ACCESS_COARSE_LOCATION"
