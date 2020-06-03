@@ -1,5 +1,5 @@
 {
-    "crime": "When bluetooth discovered then enable scanning for searching specific bluetooth device",
+    "crime": "Stealth - Check if bluetooth is discovering other bluetooth devices, if yes, then cancel discovery",
     "x1_permission": [
         "android.permission.BLUETOOTH",
         "android.permission.BLUETOOTH_ADMIN"
