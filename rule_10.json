@@ -1,5 +1,5 @@
 {
-    "crime": "Steal Sensitive Information : Get all accounts on particular android device and current active networks",
+    "crime": "Steal Sensitive Information - Get all accounts on particular android device and current active networks",
     "x1_permission": [
         "android.permission.GET_ACCOUNTS",
         "android.permission.ACCESS_NETWORK_STATE"
