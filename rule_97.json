@@ -1,5 +1,5 @@
 {
-    "crime": "? 97",
+    "crime": "Change Settings - Enable bluetooth when it is disabled",
     "x1_permission": [
         "android.permission.BLUETOOTH_ADMIN",
         "android.permission.BLUETOOTH"
