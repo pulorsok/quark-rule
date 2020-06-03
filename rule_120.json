@@ -1,5 +1,5 @@
 {
-    "crime": "Get path of external storage directory and unlock screen",
+    "crime": "Steal Sensitive Information - keep the device awake and get the SD cards' information",
     "x1_permission": [
         "android.permission.WRITE_EXTERNAL_STORAGE",
         "android.permission.WAKE_LOCK"
