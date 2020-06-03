@@ -1,5 +1,5 @@
 {
-    "crime": "? 24",
+    "crime": "Steal Sensitive Information - Keep your device awake and get info from your SD cards",
     "x1_permission": [
         "android.permission.WAKE_LOCK",
         "android.permission.WRITE_EXTERNAL_STORAGE"
