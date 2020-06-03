@@ -1,5 +1,5 @@
 {
-    "crime": "Get current active network detail and network type for network detection or prepare for sending some data via network",
+    "crime": "Steal Sensitive Information - Get active network info and your ISP name",
     "x1_permission": [
         "android.permission.ACCESS_NETWORK_STATE",
         "android.permission.READ_PHONE_STATE"
