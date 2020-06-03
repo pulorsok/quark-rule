@@ -1,5 +1,5 @@
 {
-    "crime": "Register new gps status listener and get the location to prepare for location information theft",
+    "crime": "Steal Sensitive Information - Register a new GPS status listener and get current location",
     "x1_permission": [
         "android.permission.ACCESS_FINE_LOCATION"
     ],
