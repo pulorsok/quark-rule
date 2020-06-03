@@ -1,5 +1,5 @@
 {
-    "crime": "Get the location of device and register NMEA listener for revceiving NMEA sentences from GNSS to prepare for location information theft",
+    "crime": "Steal Sensitive Information - Add GPS listener and get current location",
     "x1_permission": [
         "android.permission.ACCESS_FINE_LOCATION"
     ],
