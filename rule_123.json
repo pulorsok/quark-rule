@@ -1,5 +1,5 @@
 {
-    "crime": "Start wifi scanning and get location of device for hotspot detect that searching all available network at location",
+    "crime": "Hotspot Detection - Scan active hotspots and get the last location of the device",
     "x1_permission": [
         "android.permission.CHANGE_WIFI_STATE",
         "android.permission.ACCESS_COARSE_LOCATION"
