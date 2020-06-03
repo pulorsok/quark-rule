@@ -1,5 +1,5 @@
 {
-    "crime": "Get current network information and wallpaper to send wallpaper via network",
+    "crime": "Steal Sensitive Information - Get current network information and wallpaper",
     "x1_permission": [
         "android.permission.ACCESS_NETWORK_STATE",
         "android.permission.READ_EXTERNAL_STORAGE"
