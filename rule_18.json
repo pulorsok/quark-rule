@@ -1,5 +1,5 @@
 {
-    "crime": "Stop vibrate and unlock screen",
+    "crime": "Stealth and Resource Consumption - Stop vibration notification and keep your phone awake",
     "x1_permission": [
         "android.permission.VIBRATE",
         "android.permission.WAKE_LOCK"
