@@ -1,5 +1,5 @@
 {
-    "crime": "[?] 56",
+    "crime": "Steal Sensitive Information - Get SD cards info when the device vibrates",
     "x1_permission": [
         "android.permission.VIBRATE",
         "android.permission.WRITE_EXTERNAL_STORAGE"
