@@ -1,5 +1,5 @@
 {
-    "crime": "Start wifi scanning then get current network detail for searching the specific wifi or hotspot detection",
+    "crime": "Hotspot Detection - Scanning wifi and get active network info",
     "x1_permission": [
         "android.permission.CHANGE_WIFI_STATE",
         "android.permission.ACCESS_NETWORK_STATE"
