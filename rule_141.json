@@ -1,5 +1,5 @@
 {
-    "crime": "Get location device and last location from provider to prepare for location information theft",
+    "crime": "Steal Sensitive Information - Check if the user is in the last known location",
     "x1_permission": [
         "android.permission.ACCESS_FINE_LOCATION",
         "android.permission.ACCESS_COARSE_LOCATION"
