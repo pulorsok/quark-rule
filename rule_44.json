@@ -1,5 +1,5 @@
 {
-    "crime": "? 44",
+    "crime": "Stealth and Steal Sensitive Info - Hide from GPS tracking and get voice mail number ",
     "x1_permission": [
         "android.permission.READ_PHONE_STATE",
         "android.permission.ACCESS_COARSE_LOCATION"
