@@ -1,5 +1,5 @@
 {
-    "crime": "Get network information and location of device to send location infromation via network",
+    "crime": "Hotspot Detection - Get network info in the current location",
     "x1_permission": [
         "android.permission.ACCESS_NETWORK_STATE",
         "android.permission.ACCESS_FINE_LOCATION"
