@@ -1,5 +1,5 @@
 {
-    "crime": "? 103",
+    "crime": "Stealth and Steal Sensitive Info - Get active network info and cancel the vibration notification",
     "x1_permission": [
         "android.permission.ACCESS_NETWORK_STATE",
         "android.permission.VIBRATE"
