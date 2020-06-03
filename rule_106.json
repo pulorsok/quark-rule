@@ -1,5 +1,5 @@
 {
-    "crime": "Get absolute path of application cache file and all available network information to sending application data via network",
+    "crime": "Steal Sensitive Information - Get file information in the SD cards and network infos",
     "x1_permission": [
         "android.permission.WRITE_EXTERNAL_STORAGE",
         "android.permission.ACCESS_NETWORK_STATE"
