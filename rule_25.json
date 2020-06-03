@@ -1,5 +1,5 @@
 {
-    "crime": "Register location update and get software version of device to prepare for sending location and device information",
+    "crime": "Steal Sensitive Information - See what version of software people use in particular location",
     "x1_permission": [
         "android.permission.ACCESS_COARSE_LOCATION",
         "android.permission.READ_PHONE_STATE"
