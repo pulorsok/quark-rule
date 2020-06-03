@@ -1,5 +1,5 @@
 {
-    "crime": "? 48",
+    "crime": "Stealth and Steal Sensitive Info - Cancel vibration notificiton and know what you ISP is",
     "x1_permission": [
         "android.permission.VIBRATE",
         "android.permission.READ_PHONE_STATE"
