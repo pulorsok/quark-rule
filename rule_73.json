@@ -1,5 +1,5 @@
 {
-    "crime": "Get connection status information and register NMEA listener for revceiving NMEA sentences from GNSS for hotspot detection that searching all available network at current location of device",
+    "crime": "Steal Sensitive Information - See what ISP you're using in a specific location",
     "x1_permission": [
         "android.permission.READ_PHONE_STATE",
         "android.permission.ACCESS_FINE_LOCATION"
