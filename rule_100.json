@@ -1,5 +1,5 @@
 {
-    "crime": "Remove current location update and Register NMEA listener for revceiving NMEA sentences from GNSS to prepare for location information theft",
+    "crime": "Stealth - Read existing GPS data and hide from GPS",
     "x1_permission": [
         "android.permission.ACCESS_COARSE_LOCATION",
         "android.permission.ACCESS_FINE_LOCATION"
