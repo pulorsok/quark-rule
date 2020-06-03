@@ -1,6 +1,6 @@
 {
 
-    "crime": "? 52",
+    "crime": "Stealth and Steal Sensitive Info - Hide from GPS tracking and get phone number",
     "x1_permission": [
         "android.permission.READ_PHONE_STATE",
         "android.permission.ACCESS_COARSE_LOCATION"
