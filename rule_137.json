@@ -1,5 +1,5 @@
 {
-    "crime": "Get current network and all available network information for network detect or prepare to send data via network",
+    "crime": "Hotspot Detection - Get all network info and active network info",
     "x1_permission": [
         "android.permission.ACCESS_NETWORK_STATE"
     ],
