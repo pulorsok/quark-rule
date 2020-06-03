@@ -1,5 +1,5 @@
 {
-    "crime": "Check if bluetooth discovered and star scanning bluetooth device",
+    "crime": "Bluetooth Device Censoring - Check if the device is discovering bluetooth devices, if not, start discovering",
     "x1_permission": [
         "android.permission.BLUETOOTH",
         "android.permission.BLUETOOTH_ADMIN"
