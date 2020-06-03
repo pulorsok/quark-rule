@@ -1,5 +1,5 @@
 {
-    "crime": "? 82",
+    "crime": "Stealth and Steal Sensitive Info - Get SD cards info and hide from GPS tracking",
     "x1_permission": [
         "android.permission.WRITE_EXTERNAL_STORAGE",
         "android.permission.ACCESS_COARSE_LOCATION"
