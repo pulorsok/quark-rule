@@ -1,5 +1,5 @@
 {
-    "crime": "Get all accounts that user granted to prepare account data theft",
+    "crime": "Steal Sensitive Information - Get accounts for specific service (facebook, google) and account for the device itself",
     "x1_permission": [
         "android.permission.GET_ACCOUNTS"
     ],
