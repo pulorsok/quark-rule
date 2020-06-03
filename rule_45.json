@@ -1,5 +1,5 @@
 {
-    "crime": "Get current network detail for network detection or prepare to sending data via network",
+    "crime": "Steal Sensitive Information - Get infos about network",
     "x1_permission": [
         "android.permission.ACCESS_NETWORK_STATE"
     ],
