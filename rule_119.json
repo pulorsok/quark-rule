@@ -1,5 +1,5 @@
 {
-    "crime": "Remove location update and get path of external storage directory",
+    "crime": "Stealth and Steal Sensitive Information - Hide from GPS tracking and get directory info in your SD cards",
     "x1_permission": [
         "android.permission.ACCESS_COARSE_LOCATION",
         "android.permission.WRITE_EXTERNAL_STORAGE"
