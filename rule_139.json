@@ -1,5 +1,5 @@
 {
-    "crime": "Get path of external storage directory and vibrate device",
+    "crime": "[?] Get path of external storage directory and vibrate device",
     "x1_permission": [
         "android.permission.WRITE_EXTERNAL_STORAGE",
         "android.permission.VIBRATE"
