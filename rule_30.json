@@ -1,5 +1,5 @@
 {
-    "crime": "Get current network type and get wallpaper from device for sending wall paper of device via network",
+    "crime": "[?] Get current network type and get wallpaper from device for sending wall paper of device via network",
     "x1_permission": [
         "android.permission.READ_PHONE_STATE",
         "android.permission.READ_EXTERNAL_STORAGE"
