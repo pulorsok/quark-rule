@@ -1,5 +1,5 @@
 {
-    "crime": "Register gps status listener and get current network type to sending location information via network",
+    "crime": "Steal Sensitive Information - See what ISP you're using at current location",
     "x1_permission": [
         "android.permission.ACCESS_FINE_LOCATION",
         "android.permission.READ_PHONE_STATE"
