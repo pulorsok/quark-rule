@@ -1,5 +1,5 @@
 {
-    "crime": "Get current network type and network information for available network searchin or prepare for sending data via network",
+    "crime": "Hotspot Information Collection - Get the network providers' name and active networks",
     "x1_permission": [
         "android.permission.READ_PHONE_STATE",
         "android.permission.ACCESS_NETWORK_STATE"
