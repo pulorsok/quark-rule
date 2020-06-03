@@ -1,5 +1,5 @@
 {
-    "crime": "Get location of device and phone number to prepare for phone number and location information theft",
+    "crime": "Steal Sensitive Information - Get phone number and the last location of the device",
     "x1_permission": [
         "android.permission.ACCESS_COARSE_LOCATION",
         "android.permission.READ_PHONE_STATE"
