@@ -1,5 +1,5 @@
 {
-    "crime": "Get accounts information that user grated access and location of device to prepare for user data theft",
+    "crime": "Steal Sensitive Information - Get your accounts info and the last known location of the device",
     "x1_permission": [
         "android.permission.GET_ACCOUNTS",
         "android.permission.ACCESS_COARSE_LOCATION"
