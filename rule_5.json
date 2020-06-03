@@ -1,5 +1,5 @@
 {
-    "crime": "Get current location of deivece and phone number for locating the position of phone user",
+    "crime": "Steal Sensitive Information - Get current location of deivece and phone number",
     "x1_permission": [
         "android.permission.ACCESS_FINE_LOCATION",
         "android.permission.READ_PHONE_STATE"
