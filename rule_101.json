@@ -1,5 +1,5 @@
 {
-    "crime": "Get current network type and register location update for sending locatotion information via network",
+    "crime": "Steal Sensitive Information - Get the information of network provider and the device location",
     "x1_permission": [
         "android.permission.READ_PHONE_STATE",
         "android.permission.ACCESS_COARSE_LOCATION"
