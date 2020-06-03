@@ -1,5 +1,5 @@
 {
-    "crime": "Check if network provider synced",
+    "crime": "Chnage Settings - Checkif network provider is syncable and if not, change the settting",
     "x1_permission": [
         "android.permission.READ_SYNC_SETTINGS"
     ],
