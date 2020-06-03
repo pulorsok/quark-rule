@@ -1,5 +1,5 @@
 {
-    "crime": "? 66",
+    "crime": "Stealth and Steal Sensitive Info - Get current location and hide vibration notification",
     "x1_permission": [
         "android.permission.ACCESS_FINE_LOCATION",
         "android.permission.VIBRATE"
