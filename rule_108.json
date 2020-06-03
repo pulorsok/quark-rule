@@ -1,5 +1,5 @@
 {
-    "crime": "? 108",
+    "crime": "Stealth and Steal Sensitive info - Hide from GPS and get the last location of the device",
     "x1_permission": [
         "android.permission.ACCESS_COARSE_LOCATION"
     ],
