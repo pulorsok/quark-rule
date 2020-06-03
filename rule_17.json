@@ -1,5 +1,5 @@
 {
-    "crime": "Get absolute path of application cache file and path of external storage directory prepare for data file theft",
+    "crime": "Steal Sensitive Information - Get information in your SD cards",
     "x1_permission": [
         "android.permission.WRITE_EXTERNAL_STORAGE"
     ],
