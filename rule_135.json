@@ -1,5 +1,5 @@
 {
-    "crime": "Remove location then register location update",
+    "crime": "Avoid Detection - Disable and enable GPS tracking in a low frequency",
     "x1_permission": [
         "android.permission.ACCESS_COARSE_LOCATION"
     ],
