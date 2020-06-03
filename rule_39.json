@@ -1,5 +1,5 @@
 {
-    "crime":  "Get accounts information that user granted access and register location update to prepare for user location and account information theft",
+    "crime":  "Steal Sensitive Information - Get user account of particular services (e.g. google, facebook) and the last known location of the device",
     "x1_permission": [
         "android.permission.GET_ACCOUNTS",
         "android.permission.ACCESS_COARSE_LOCATION"
