@@ -1,5 +1,5 @@
 {
-    "crime": "? 78",
+    "crime": "Stealth - Disable and enable vibrate notification",
     "x1_permission": [
         "android.permission.VIBRATE"
     ],
