@@ -1,5 +1,5 @@
 {
-    "crime": "Enable wifi of device and get available network information for searching the specific wifi or hotspot detection",
+    "crime": "Change Settings and Steal Sensitive Info - Enable wifi and get active network info",
     "x1_permission": [
         "android.permission.CHANGE_WIFI_STATE",
         "android.permission.ACCESS_NETWORK_STATE"
