@@ -1,5 +1,5 @@
 {
-    "description": "? 21",
+    "description": "Stealth and Steal Sensitive Info - Get your ISP info and hide from GPS tracking",
     "crime": "",
     "x1_permission": [
         "android.permission.READ_PHONE_STATE",
