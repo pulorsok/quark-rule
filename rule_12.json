@@ -1,5 +1,5 @@
 {
-    "crime":  "Get phone number and register location update for locating the position of user phone",
+    "crime":  "Steal Sensitive Information - Get your phone number and update current location",
     "x1_permission": [
         "android.permission.READ_PHONE_STATE",
         "android.permission.ACCESS_COARSE_LOCATION"
